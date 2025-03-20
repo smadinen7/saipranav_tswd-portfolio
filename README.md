@@ -43,5 +43,5 @@ Part III(final-project-part-three)
 ---
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used AI to help refine and structure my writing in a more professional manner. The AI assisted in enhancing clarity, improving sentence flow, and ensuring that my responses were well-organized and aligned with the course requirements. However, all ideas, personal insights, and content were originally my own, and AI was used solely as a tool for drafting and refining the final text._
 
