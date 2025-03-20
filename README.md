@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Sai Pranav Madineni, and I am a graduate student at Carnegie Mellon University, pursuing a Master’s in Information Systems Management with a focus on Business Intelligence and Data Analytics. My background is in software engineering and data science, with experience in building full-stack applications and working with machine learning models. I am particularly passionate about leveraging data-driven insights to solve complex problems across industries, including finance, technology, and public policy.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
