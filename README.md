@@ -21,8 +21,7 @@ My name is Sai Pranav Madineni, and I am a graduate student at Carnegie Mellon U
 - After graduation, I aspire to work in data science and analytics, applying my skills to solve real-world challenges in industries such as finance, technology, and public policy.
 - I hope to collaborate with classmates on creative data visualization projects and learn from their perspectives and experiences.
 - I will be maintaining my portfolio on GitHub and following the GitHub markdown guide to format my projects professionally.
-- If you’d like to learn more about me, feel free to check out my LinkedIn profile: LinkedIn.
-- I may also include a photo in my portfolio following the GitHub markdown guide.
+- If you’d like to learn more about me, feel free to check out my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/sai-pranav-madineni/).
 
 # Portfolio
 
