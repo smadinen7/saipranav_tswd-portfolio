@@ -14,17 +14,15 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 My name is Sai Pranav Madineni, and I am a graduate student at Carnegie Mellon University, pursuing a Master’s in Information Systems Management with a focus on Business Intelligence and Data Analytics. My background is in software engineering and data science, with experience in building full-stack applications and working with machine learning models. I am particularly passionate about leveraging data-driven insights to solve complex problems across industries, including finance, technology, and public policy.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- I want to improve my ability to craft compelling data-driven stories that make complex insights more accessible and actionable for diverse audiences.
+- I aim to refine my data visualization skills by learning best practices in color theory, layout, and chart selection to effectively present information.
+- I am excited to explore various storytelling techniques and critique methodologies that will help me evaluate and enhance my own visualizations.
+- I plan to leverage this course to build a strong portfolio showcasing my ability to communicate insights through data, which will be valuable for future job applications.
+- After graduation, I aspire to work in data science and analytics, applying my skills to solve real-world challenges in industries such as finance, technology, and public policy.
+- I hope to collaborate with classmates on creative data visualization projects and learn from their perspectives and experiences.
+- I will be maintaining my portfolio on GitHub and following the GitHub markdown guide to format my projects professionally.
+- If you’d like to learn more about me, feel free to check out my LinkedIn profile: LinkedIn.
+- I may also include a photo in my portfolio following the GitHub markdown guide.
 
 # Portfolio
 
