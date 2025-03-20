@@ -4,8 +4,8 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://smadinen7.github.io/saipranav_tswd-portfolio/)
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/smadinen7/saipranav_tswd-portfolio)
+- Web page URL: [https://smadinen7.github.io/saipranav_tswd-portfolio/](https://smadinen7.github.io/saipranav_tswd-portfolio/)
+- This repository: [https://github.com/smadinen7/saipranav_tswd-portfolio](https://github.com/smadinen7/saipranav_tswd-portfolio)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
