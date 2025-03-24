@@ -2,3 +2,9 @@
 
 # Data visualization examples
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
+
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
+  
+</script>
+<tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/smadinen-6560bd645d/views/GeneralGovernmentDebtofGDP/Sheet1' width='1576' height='907' hide-tabs toolbar='bottom' >
+</tableau-viz>
