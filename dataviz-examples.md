@@ -8,3 +8,6 @@ OECD dataset
 </script>
 <tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/smadinen-6560bd645d/views/GeneralGovernmentDebtofGDP/Sheet1' width='1576' height='907' hide-tabs toolbar='bottom' >
 </tableau-viz>
+
+Top 10 Countries
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/smadinen-6560bd645d/views/Book2/Sheet1' width='1896' height='907' hide-tabs toolbar='bottom' ></tableau-viz>
