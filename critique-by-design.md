@@ -8,7 +8,7 @@
 [Visual Capitalist - Ranked: 2025’s Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/)
 
 **Screenshot of Original Visualization**:  
-![Original Visualization](./images/original_viz.png)  
+![Original Visualization](./images/initial_graph.webp)  
 *(Replace with your actual screenshot)*
 
 I selected this visualization because it presents timely and practical data that’s highly relevant to globally mobile professionals. The original chart is a heatmap-style matrix showing 16 countries across seven dimensions of opportunity — including factors like earning potential, career advancement, and livability. While it provides detailed data, it quickly becomes visually overwhelming and doesn’t effectively tell a story.
@@ -78,7 +78,7 @@ Peers appreciated the clarity and ease of use compared to the original heatmap. 
 I built the final solution in **Tableau Public**. I used a choropleth map colored by a calculated field representing the numeric Total Opportunity Score. Each country was shaded using a sequential color scale, and tooltips included country names and their scores.
 
 **Final Redesign Screenshot**:  
-![Final Visualization](./images/final_map.png)
+![Final Visualization](./images/graph_final.JPG)
 
 This redesign transforms a complex heatmap into a geographically grounded, highly interpretable map. It simplifies comparison and lets the viewer quickly answer: *Where are the best places to migrate in 2025?* Without overloading them with too many variables, the map offers a powerful entry point for further exploration.
 
