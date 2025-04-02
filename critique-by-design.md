@@ -9,7 +9,6 @@
 
 **Screenshot of Original Visualization**:  
 ![Original Visualization](./images/initial_graph.webp)  
-*(Replace with your actual screenshot)*
 
 I selected this visualization because it presents timely and practical data that’s highly relevant to globally mobile professionals. The original chart is a heatmap-style matrix showing 16 countries across seven dimensions of opportunity — including factors like earning potential, career advancement, and livability. While it provides detailed data, it quickly becomes visually overwhelming and doesn’t effectively tell a story.
 
