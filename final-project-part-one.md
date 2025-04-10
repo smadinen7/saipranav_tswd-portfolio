@@ -29,7 +29,7 @@ AI is transforming the job market by automating some roles while creating new on
 
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 
-_See the `sketches/` folder for images._
+![Initial Sketch](./images/plan.png)  
 
 Planned visualizations:
 1. **Bar Chart** – AI adoption by industry (e.g., marketing, healthcare, education)
