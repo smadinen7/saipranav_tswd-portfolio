@@ -34,7 +34,7 @@ AI is transforming the job market by automating some roles while creating new on
 Planned visualizations:
 1. **Bar Chart** – AI adoption by industry (e.g., marketing, healthcare, education)
 2. **Timeline** – When AI-related job cuts started appearing in layoff reports
-3. **Side-by-Side Bars** – Jobs lost vs. jobs gained (World Economic Forum)
+3. **Side-by-Side Bars** – Jobs lost vs. jobs gained
 4. **Scatter Plot** – Job exposure to AI vs. salary (e.g., “Data Entry Keyers” vs. “Barbers”)
 5. **Stacked Bars** – How workers feel about AI (helpful/harmful/neutral)
 
@@ -42,17 +42,16 @@ Planned visualizations:
 
 # The data
 
-I plan to use public datasets that provide both global and U.S.-level information on AI adoption and its impact on jobs. The World Economic Forum report outlines projections of job loss and creation due to AI over the next few years. Pew Research provides a detailed analysis of U.S. job roles and how likely they are to be affected based on the tasks involved. I’ll also use layoff data from Challenger, Gray & Christmas to show real-time displacement happening in 2023 and 2024. Together, these sources should help show both the risks and the opportunities.
-
-I’ve started downloading and organizing these datasets, and I will use Tableau to create visualizations from them. I’ll also include any data wrangling steps in my repo as needed.
+For this project, I’ve selected datasets that provide deep insight into the current and projected impact of AI on the workforce. These sources include detailed occupational risk assessments, industry adoption trends, and actual job market data.
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Future of Jobs Report (WEF) | [Link](https://www.weforum.org/reports/future-of-jobs-report-2023) | Global job forecasts (jobs lost vs. gained by 2027) |
-| Pew Research – AI Exposure | [Link](https://www.pewresearch.org/short-reads/2023/07/26/which-us-workers-are-more-exposed-to-ai-on-their-jobs/) | Analysis of U.S. jobs and their exposure to AI |
-| Challenger Layoff Reports | [Link](https://www.challengergray.com/press/) | Layoffs attributed to AI from 2023 onwards |
-| IBM AI Adoption Report | [Link](https://www.ibm.com/downloads/cas/EXLQBMRA) | AI usage across different industries |
-| AI Jobs Tracker (UMD) | [Link](https://ai-companies-linkup.opendata.arcgis.com/) | U.S.-based job postings related to AI |
+| AI Occupational Exposure (AIOE) Dataset | [GitHub Link](https://github.com/AIOE-Data/AIOE) | Measures how exposed different occupations are to AI, based on their tasks and required skills. Useful for plotting AI risk vs. job type/salary. |
+| AI-Powered Job Market Insights | [Kaggle Link](https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights) | Contains AI-related job listings with details like skills, company size, and automation risk. Useful for highlighting new job roles emerging from AI adoption. |
+| Layoffs Dataset (2020–2023) | [Kaggle Link](https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022) | Tracks global layoffs with reasons (including AI/automation). Will be used for the timeline showing rise in AI-related layoffs. |
+| Tech Layoff Tracker | [TrueUp Tracker](https://www.trueup.io/layoffs) | Real-time data on layoffs at tech companies. Helps reinforce the impact of AI in industries heavily adopting automation. |
+
+These datasets are available publicly and will be used to build visualizations in Tableau. I will clean and preprocess them as needed, and any transformations will be documented in my project repo.
 
 ---
 
@@ -66,18 +65,13 @@ If needed, I may use Canva or Figma to add some simple icons or illustrations, b
 
 ## References
 
-- World Economic Forum. (2023). *Future of Jobs Report*  
-- Pew Research Center. (2023). *AI Exposure by Occupation*  
-- Challenger, Gray & Christmas. (2023–2024). *Monthly Layoff Reports*  
-- IBM. (2023). *Global AI Adoption Index*  
-- LinkedIn & UMD. (2024). *AI Jobs Tracker*
+- AI Occupational Exposure Dataset (2023), GitHub  
+- AI Job Market Insights Dataset (2023), Kaggle  
+- Global Layoffs Dataset (2023), Kaggle  
+- TrueUp Tech Layoff Tracker (2024), TrueUp.io  
 
 ---
 
 ## AI acknowledgements
 
 AI was used to help brainstorm the structure and clean up early drafts of this project outline, including identifying strong sources and suggesting a narrative arc. All final writing and organization was done by me, with support for edits and tone correction. All data analysis and visualization work will be completed independently.
-
----
-
-Let me know once you’ve added the `sketches` folder or uploaded the visuals — I can help format or describe them for your page too. Want help publishing this to GitHub Pages or linking it to Shorthand later?
