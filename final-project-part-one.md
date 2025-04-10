@@ -27,8 +27,6 @@ AI is transforming the job market by automating some roles while creating new on
 
 ## Initial sketches
 
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
-
 ![Initial Sketch](./images/plan.png)  
 
 Planned visualizations:
