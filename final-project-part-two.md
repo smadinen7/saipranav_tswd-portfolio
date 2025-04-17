@@ -1,8 +1,6 @@
 | [home page](https://smadinen7.github.io/saipranav_tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.
-
 For Part II, I developed a scroll-based storyboard and began building high-fidelity charts in Tableau. These visuals follow my Part I outline and represent the critical points in the story arc. Each section corresponds to a section of the final Shorthand story and will be refined further in Part III based on user feedback.
 
 **Storyboard Sections:**
@@ -28,8 +26,8 @@ The story is designed for early-career professionals and graduate students in te
 
 For interviews, I identified three individuals:
 - A CMU grad student in analytics (early 20s)
-- A CS graduate working in product (early 20s)
-- A product manager in fintech (late 20s)
+- A CMU grad student in design (early 20s)
+- A CMU grad student in mism (late 20s)
 
 They reflect the audience who would benefit from clarity around job risks, AI adoption trends, and action steps.
 
@@ -53,7 +51,7 @@ I used these questions to guide a 10–15 minute conversational interview while 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-| Questions                            | Interview 1 (CMU student)                  | Interview 2 (CS grad)                    | Interview 3 (Fintech PM)                  |
+| Questions                            | Interview 1 (CMU student)                  | Interview 2 (CMU student)                    | Interview 3 (CMU student)                  |
 |--------------------------------------|--------------------------------------------|------------------------------------------|-------------------------------------------|
 | Most relevant section?               | Exposure risk scatterplot                   | Layoff timeline                           | New job creation bar chart                 |
 | Most confusing visual?               | Timeline lacked context                     | Wanted filters for industries             | Scatterplot needed clearer labeling        |
