@@ -73,8 +73,6 @@ Draft visualizations for Sections 2, 3, and 5 are underway in Tableau and being 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
 The story is designed for early-career professionals and graduate students in tech, data, and business fields who are preparing to enter or evolve within a job market increasingly influenced by AI.
 
 For interviews, I identified three individuals:
@@ -85,8 +83,6 @@ For interviews, I identified three individuals:
 They reflect the audience who would benefit from clarity around job risks, AI adoption trends, and action steps.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
 The primary goals of my interviews were:
 - To assess whether the visuals and narrative are clear and meaningful
 - To identify which elements are most helpful or confusing
@@ -102,8 +98,6 @@ The primary goals of my interviews were:
 I used these questions to guide a 10–15 minute conversational interview while screen-sharing early visuals and wireframes.
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
 | Questions                            | Interview 1 (CMU student)                  | Interview 2 (CMU student)                    | Interview 3 (CMU student)                  |
 |--------------------------------------|--------------------------------------------|------------------------------------------|-------------------------------------------|
 | Most relevant section?               | Exposure risk scatterplot                   | Layoff timeline                           | New job creation bar chart                 |
@@ -112,8 +106,6 @@ I used these questions to guide a 10–15 minute conversational interview while 
 | Suggestions for improvement          | Use color-coded job types                   | Include call-to-action                    | Include clearer tooltips and callouts      |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
 | Research synthesis                           | Anticipated changes for Part III                                              |
 |----------------------------------------------|-------------------------------------------------------------------------------|
 | Timeline visualization lacked clarity        | Simplify to 5–6 major layoff events, color-code by industry                   |
@@ -121,12 +113,10 @@ I used these questions to guide a 10–15 minute conversational interview while 
 | Lack of interactivity in visuals             | Add optional filters for industry or job role in Tableau (if feasible)        |
 | Missing conclusion or takeaway               | Add a call-to-action section with practical advice and resource links         |
 
-> ...include any final thoughts you have here. 
 
 The user feedback validated the structure and message of my story, but also pointed out areas where clarity and engagement could be improved. The scatterplot and timeline, while valuable, need simplification and more annotations. All interviewees wanted something actionable at the end, which I’ll implement in Part III.
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 **Moodboard:**  
 *(to be added)*
