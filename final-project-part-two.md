@@ -12,7 +12,13 @@ For Part II, I developed a scroll-based storyboard and began building high-fidel
 6. **Worker Sentiment** – Stacked bar of attitudes (hopeful, neutral, fearful).
 7. **Conclusion** – A summary and call to action with resources for upskilling.
 
-Draft visualizations for Sections 2, 3, and 5 are underway in Tableau and being published to Tableau Public.
+---
+
+## Draft Shorthand Story Link  
+📎 [View my Shorthand story draft](https://preview.shorthand.com/kY1uY6TfQLl0o8St)
+
+_Note: This is an early version. Still need to style it, organize the layout more cleanly, and write it in full story format._
+
 
 **Storyboard Sketch:**  
 <div class='tableauPlaceholder' id='viz1744958825022' style='position: relative'><noscript><a href='#'><img alt='AI Job Listings by Industry ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIJobListingsbyIndustry&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AIJobListingsbyIndustry&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIJobListingsbyIndustry&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
