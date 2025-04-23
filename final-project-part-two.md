@@ -15,7 +15,7 @@ For Part II, I developed a scroll-based storyboard and began building high-fidel
 ---
 
 ## Draft Shorthand Story Link  
-📎 [View my Shorthand story draft](https://preview.shorthand.com/kY1uY6TfQLl0o8St)
+📎 [View my Shorthand story draft](https://preview.shorthand.com/4B703mxwB1exDPMS)
 
 _Note: This is an early version. Still need to style it, organize the layout more cleanly, and write it in full story format._
 
