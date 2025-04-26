@@ -1,7 +1,7 @@
 | [home page](https://smadinen7.github.io/saipranav_tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-✅ [View the final story here](https://preview.shorthand.com/kY1uY6TfQLl0o8St)
+✅ [View the final story here](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/bgqfVGHVxk)
 
 This final data story explores the shifting dynamics of AI adoption and the corresponding global layoffs it has triggered across industries.  
 It presents both the opportunities and hidden costs of this transition through a compelling sequence of visualizations, narrative insights, and real-world data.
@@ -38,7 +38,6 @@ References are included directly within the Shorthand story under each relevant 
 # AI acknowledgements
 AI tools such as ChatGPT were used to:
 - Refine text phrasing and improve narrative transitions.
-- Suggest highlight points for graphs.
 - Recommend suitable image ideas for different sections.
 
 All analysis, design, and final project assembly were completed independently.
