@@ -26,19 +26,18 @@ My name is Sai Pranav Madineni, and I am a graduate student at Carnegie Mellon U
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+In this assignment, I analyzed government debt data and visualized debt-to-GDP ratios across multiple countries. I focused on designing a clear, comparative chart that made differences between countries easier to understand at a glance.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this project, I selected a flawed existing data visualization and redesigned it to improve clarity, accessibility, and storytelling. I critiqued the original chart's weaknesses and applied better visualization principles to make the insights more actionable.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+My final project explores the impact of AI on the global job market, especially in the tech sector.  
+- [Part I](final-project-part-one): Project proposal outlining the main research question, goals, and initial storyboard ideas.  
+- [Part II](final-project-part-two): Developed initial wireframes and Tableau visualizations to prototype the key visual elements of the story.  
+- [Part III](final-project-part-three): Completed a fully narrated, styled Shorthand story, analyzing AI-driven layoffs, industry adoption trends, and providing insights for future workforce resilience.
 
 ---
 
