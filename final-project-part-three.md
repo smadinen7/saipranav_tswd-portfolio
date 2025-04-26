@@ -1,7 +1,7 @@
 | [home page](https://smadinen7.github.io/saipranav_tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-✅ [View the final story here](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/bgqfVGHVxk)
+✅ [View the final story here](https://preview.shorthand.com/4B703mxwB1exDPMS)
 
 This final data story explores the shifting dynamics of AI adoption and the corresponding global layoffs it has triggered across industries.  
 It presents both the opportunities and hidden costs of this transition through a compelling sequence of visualizations, narrative insights, and real-world data.
